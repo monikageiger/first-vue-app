@@ -14,7 +14,7 @@ export default {
         showAddTask:Boolean
     },
     components:{
-        Button
+        Button 
         }
     }
 </script>
